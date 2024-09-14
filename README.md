@@ -1,1 +1,1 @@
-# Build Serveless Web Application on AWS
+# Serveless Web Application on AWS
